@@ -1,4 +1,4 @@
-Carro compras postres ⚛️📝
+CARRO COMPRAS POSTRES ⚛️📝
 Shopping cart type application written in React.
 
 # Getting Started with Create React App
